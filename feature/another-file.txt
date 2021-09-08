@@ -2,3 +2,5 @@ This line was replaced in feature-2 branch
 
 This file was modified localy
 This line was added in feature-2 branch
+
+Edit in feature-2 branch
